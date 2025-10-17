@@ -38,14 +38,14 @@ O sistema deve permitir ao professor:
 
 1. **Clonar o repositório**
 ```bash
-git clone https://github.com/GuilhermeCanina/escolaavaliacao.git
+git clone https://github.com/Olavomarques/escolaavaliacao.git
 cd escolaavaliacao
 
 
 ### 1. Clonar o Repositório
 
 ```bash
-git clone https://github.com/olavomarques/escolaavaliacao.git
+git clone https://github.com/Olavomarques/escolaavaliacao.git
 cd escolaavaliacao
 ```
 
