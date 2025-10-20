@@ -30,4 +30,3 @@ routes.patch("/atividades/:id", AtividadesController.updateAtividade);
 routes.delete("/atividades/:id", AtividadesController.deleteAtividade);
 
 module.exports = routes;
-
